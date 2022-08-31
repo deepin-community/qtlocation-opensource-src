@@ -1,0 +1,3 @@
+{"Filepath":"include/QtLocation/qtlocationversion.h","Functions":null,"Records":[{"Name":"macro","Fields":["QTLOCATION_VERSION","QTLOCATION_VERSION_STR","QT_QTLOCATION_VERSION_H"]}]}
+{"Filepath":"include/QtPositioning/qtpositioningversion.h","Functions":null,"Records":[{"Name":"macro","Fields":["QTPOSITIONING_VERSION","QTPOSITIONING_VERSION_STR","QT_QTPOSITIONING_VERSION_H"]}]}
+{"Filepath":"include/QtPositioningQuick/qtpositioningquickversion.h","Functions":null,"Records":[{"Name":"macro","Fields":["QTPOSITIONINGQUICK_VERSION","QTPOSITIONINGQUICK_VERSION_STR","QT_QTPOSITIONINGQUICK_VERSION_H"]}]}
