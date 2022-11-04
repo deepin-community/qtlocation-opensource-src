@@ -7,19 +7,19 @@ Build-Depends: debhelper-compat (= 13),
                libboost-dev,
                libicu-dev,
                libprotozero-dev (>= 1.5.2),
-               libqt5opengl5-dev (>= 5.15.3~),
+               libqt5opengl5-dev (>= 5.15.7~),
                pkg-kde-tools,
-               qml-module-qttest (>= 5.15.3~),
-               qtbase5-private-dev (>= 5.15.3~),
-               qtdeclarative5-private-dev (>= 5.15.3~),
+               qml-module-qttest (>= 5.15.7~),
+               qtbase5-private-dev (>= 5.15.7~),
+               qtdeclarative5-private-dev (>= 5.15.7~),
                rapidjson-dev (>= 1.1.0),
                xauth <!nocheck>,
                xvfb <!nocheck>,
                zlib1g-dev
-Build-Depends-Indep: qdoc-qt5 (>= 5.15.3~) <!nodoc>,
-                     qhelpgenerator-qt5 (>= 5.15.3~) <!nodoc>,
-                     qtattributionsscanner-qt5 (>= 5.15.3~) <!nodoc>,
-                     qtbase5-doc-html (>= 5.15.3~) <!nodoc>
+Build-Depends-Indep: qdoc-qt5 (>= 5.15.7~) <!nodoc>,
+                     qhelpgenerator-qt5 (>= 5.15.7~) <!nodoc>,
+                     qtattributionsscanner-qt5 (>= 5.15.7~) <!nodoc>,
+                     qtbase5-doc-html (>= 5.15.7~) <!nodoc>
 Standards-Version: 4.6.0
 Homepage: https://doc.qt.io/qt-5/qtlocation-index.html
 

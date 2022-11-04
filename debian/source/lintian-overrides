@@ -4,4 +4,7 @@
 # own projects, it's sufficient to exclude the bin/jsonchecker/ directory, as
 # it's the only code under the JSON license”. However the Qt fork of mapbox
 # does not contain that directory.
+qtlocation-opensource-src source: license-problem-json-evil [src/3rdparty/mapbox-gl-native/LICENSE.md]
+# FTP masters use old Lintian version for auto-rejects.
+# Drop this override after they upgrade it.
 qtlocation-opensource-src source: license-problem-json-evil src/3rdparty/mapbox-gl-native/LICENSE.md
