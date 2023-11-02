@@ -1,8 +1,9 @@
-qtlocation-opensource-src (5.15.8-1+dde) UNRELEASED; urgency=medium
+qtlocation-opensource-src (5.15.8-2deepin1) unstable; urgency=medium
+ 
+  * Add a patch to add missing includes for GCC 13 (closes: #1037830).
+  * Upload to unstable.
 
-  * New upstream release (5.15.8).
-
- -- Lu YaNing <luyaning@uniontech.com>  Mon, 30 Jan 2023 13:40:58 +0800
+ -- LiChengGang <lichenggang@uniontech.com>  Thu, 02 Nov 2023 16:15:19 +0800
 
 qtlocation-opensource-src (5.15.7-1+dde) unstable; urgency=medium
 
