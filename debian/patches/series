@@ -3,3 +3,4 @@ hurd_geoclue.diff
 mapboxgl_thread_portability.diff
 opengl.diff
 add-sunway-support.patch
+gcc_13.diff
