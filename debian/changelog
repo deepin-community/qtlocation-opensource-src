@@ -1,3 +1,9 @@
+qtlocation-opensource-src (5.15.8-2deepin2) unstable; urgency=medium
+
+  * add rebuild.
+
+ -- lichenggang <lichenggang@deepin.org>  Tue, 06 Jan 2026 17:13:25 +0800
+
 qtlocation-opensource-src (5.15.8-2deepin1) unstable; urgency=medium
  
   * Add a patch to add missing includes for GCC 13 (closes: #1037830).
